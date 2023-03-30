@@ -9,6 +9,3 @@ function App() {
 }
 
 export default App;
-
-//https://www.youtube.com/watch?v=f55qeKGgB_M
-// 2:06:55
